@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Arif Shahriar
-## 🎓 I am a Computer Science and Engineering student at Northern University Bangladesh.
+## 🎓 I am a Computer Science and Engineering Student at Northern University Bangladesh.
 
 <div align="center">
 
