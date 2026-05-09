@@ -1,5 +1,3 @@
-(https://scontent.fdac169-1.fna.fbcdn.net/v/t39.30808-6/688356647_1471298067706074_3767103553592756959_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=13d280&_nc_eui2=AeF-DfYm9IKCxT7a6AWHfEWj9_N7HVch9Gr383sdVyH0aj0tQwK2HkgFaL_2vvc2uW66ye8C_6_dDaViUohjB3Wq&_nc_ohc=TnLo55UBbOsQ7kNvwFLq4wp&_nc_oc=AdoBZjBwfevG3rkMd4Lqlr8_nxHr1cK0OW9YoPctM5BVGaGCUvMsdyfUvWSYZCjiJF0&_nc_zt=23&_nc_ht=scontent.fdac169-1.fna&_nc_gid=amwGCSAV9a_bKQ20JClI7g&_nc_ss=7b2a8&oh=00_Af5z4pXCIsSvFmcgBq4pZFJL78jOugcWvETciI0JmyZPDQ&oe=69FBC5FC)
-
 # Hi there 👋, I'm Arif Shahriar
 ## 🎓 I am a Computer Science and Engineering Student at Northern University Bangladesh.
 
