@@ -4,7 +4,7 @@ Hi there 👋, I'm Arif Shahriar
 
 💻 Computer Science & Engineering Student
 
-### Northern University Bangladesh
+at Northern University Bangladesh
 
 🚀 Passionate about Programming • Problem Solving • Software Development
 
