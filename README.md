@@ -2,7 +2,7 @@
 
 <div align="center">
 
-💻 Computer Science & Engineering Student
+  ## 💻 Computer Science & Engineering Student
 
 at Northern University Bangladesh
 
@@ -88,27 +88,6 @@ at Northern University Bangladesh
 
 ---
 
-## 🌐 Connect With Me
-
-* 📧 Email: **[arifshahriar1724.nubcse@gmail.com](mailto:arifshahriar1724.nubcse@gmail.com)**
-* 🌍 GitHub
-* 💼 LinkedIn
-* 📘 Facebook
-* 📷 Instagram
-
----
-
-## 📊 GitHub Stats
-
-```md
-⭐ GitHub Metrics
-🔥 GitHub Streak Stats
-💻 Top Languages
-🏆 GitHub Trophies
-```
-
----
-
 ## 👯 Collaboration Interests
 
 ✔️ Open Source Contributions
@@ -130,9 +109,6 @@ He/Him
 
 ---
 
-## ✍️ Random Dev Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 > [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arifshahriar-official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arifshahriarofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arifshahriar.official)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arif_shahriar.ig/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
