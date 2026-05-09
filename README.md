@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Arif Shahriar
+## 🎓 I am a Computer Science and Engineering student at Northern University Bangladesh.
 
 <div align="center">
 
-  ## 💻 Computer Science & Engineering Student
-
-at Northern University Bangladesh
+ 
 
 🚀 Passionate about Programming • Problem Solving • Software Development
 
